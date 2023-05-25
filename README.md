@@ -7,7 +7,7 @@ Weather Forecast App
 A visually stunning and user-friendly web application that provides real-time weather forecasts for cities, states, and countries. Stay informed about the weather conditions with a single click!
 
 <div align="center">
-  <img src="screenshot.png" alt="Weather Forecast App Screenshot">
+  <img src="Screenshot.png" alt="Weather Forecast App Screenshot">
 </div>
 Features
 🔍 Location Search: Easily search for a location by entering the city, state, or country. Get accurate weather forecasts tailored to your preferred destination.
