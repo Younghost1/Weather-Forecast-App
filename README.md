@@ -40,8 +40,8 @@ Check the Weather: Click on the "Check Weather" button to retrieve the weather f
 
 <h1>Screenshots</h1>
 <div align="center">
-  <img src="screenshot_1.png" alt="Screenshot 1" width="400">
-  <img src="screenshot_2.png" alt="Screenshot 2" width="400">
+  <img src="screenshot_1.png" alt="Screenshot 1" width="300">
+  <img src="screenshot_2.png" alt="Screenshot 2" width="300">
 </div>
 Contributing
 Contributions are more than welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Let's collaborate and make this project even better!
