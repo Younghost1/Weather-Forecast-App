@@ -1,7 +1,7 @@
 # Weather-Forecast-App
 This is a simple web application that provides weather forecasts for cities, states, and countries. Users can search for a location and view the current weather conditions and temperature in their preferred unit (Celsius or Fahrenheit).
 <div align="center">
-  <img src="repository_logo.png" alt="Repository Logo" width="200" height="200">
+  <img src="repository_logo.jpg" alt="Repository Logo" width="200" height="200">
 </div>
 Weather Forecast App
 A visually stunning and user-friendly web application that provides real-time weather forecasts for cities, states, and countries. Stay informed about the weather conditions with a single click!
